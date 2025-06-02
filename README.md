@@ -62,3 +62,25 @@ In this cases, we are going to do the change fix on the pre-prod first and then 
     $ git push origin branchName    // This push to the branchName mentioned.
     $ put pull origin branchName    // To pull changes from the specific branch
 ```
+
+> git fetch   vs   git pull 
+
+```
+The key difference between git fetch and git pull is, git pull pulls the copes of the changes from the remote branch  and directly applies/merges them to your local directory. 
+
+While git fetch just downloads the changes in to your git local repo and if we want to merge the changes, then we do a git merge. [ $ git pull, is going to do both ]
+```
+
+Note:
+
+```
+
+    *   Whenever you push any changes and if they look good and stable on main branch, then you will raise/create a create a Git Tag.
+
+    *   Git Tag : Creating a name to a commit, which can referenced later and using that we can make the software.
+
+    *   Git and Linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linux Torvolds.
+
+    * GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
+
+```

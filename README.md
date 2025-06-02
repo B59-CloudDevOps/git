@@ -50,3 +50,15 @@ In this cases, we are going to do the change fix on the pre-prod first and then 
         Dev --->  QA ---> Pre-Prod ----> CAB Request ----> Prod
 
 > A hotfix in software development is a quick and targeted update to fix a critical bug or issue in a production environment. It’s usually applied outside the normal release cycle because the issue is urgent and negatively affects users, business operations, or security.
+
+
+> Git Commands
+
+```
+    $ git branch                    // Shows you which branch you're in.
+    $ git branch brachName          // This creates a branch with name branchName from the branch you're in.
+    $ git checkout branchName       // This is to switch to the branch named branchName.
+    $ git checkout -b branchName    // This creates a branch branchName and switches your current branch to branchName.
+    $ git push origin branchName    // This push to the branchName mentioned.
+    $ put pull origin branchName    // To pull changes from the specific branch
+```

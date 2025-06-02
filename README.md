@@ -79,7 +79,7 @@ Note:
 
     *   Git Tag : Creating a name to a commit, which can referenced later and using that we can make the software.
 
-    *   Git and Linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linux Torvolds.
+    *   Git and Linux are like oceans, infinite things are there to learn. Both of them are created by the same person,Linux Torvolds.
 
     * GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
 

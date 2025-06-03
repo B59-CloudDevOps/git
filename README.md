@@ -74,7 +74,6 @@ While git fetch just downloads the changes in to your git local repo and if we w
 Note:
 
 ```
-
     *   Whenever you push any changes and if they look good and stable on main branch, then you will raise/create a create a Git Tag.
 
     *   Git Tag : Creating a name to a commit, which can referenced later and using that we can make the software.
@@ -82,5 +81,7 @@ Note:
     *   Git and Linux are like oceans, infinite things are there to learn. Both of them are created by the same person,Linux Torvolds.
 
     * GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
-
 ```
+
+> What are the alternative products of GitHub ?
+    `BitBucket, GitLab`
